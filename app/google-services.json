@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27018277704",
+    "project_id": "facturas-ad05f",
+    "storage_bucket": "facturas-ad05f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27018277704:android:78c56bed0bebcf0a2ab97d",
+        "android_client_info": {
+          "package_name": "com.facturacion.copacabana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlV9_YyGfiU9UReaseGZWMtIjb4vrBN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
